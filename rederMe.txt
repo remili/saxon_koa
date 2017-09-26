@@ -1,0 +1,1 @@
+trek-captcha    图形验证

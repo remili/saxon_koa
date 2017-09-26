@@ -1,0 +1,23 @@
+{
+  "name": "saxon_koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-jwt": "^3.2.2",
+    "koa-router": "^7.2.1",
+    "koa2-cors": "^2.0.3",
+    "mongoose": "^4.11.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
